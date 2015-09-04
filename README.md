@@ -13,3 +13,7 @@ You'll likely need to modify the script to get it to work for your particular pr
 
 Please submit a pull request if you have any bugfixes or other awesome ideas.
 
+Here is an example output (This should be from before any rounds have been done).   (It's not terribly exciting right no)
+
+![Example Visualization](example_heatmap.png?raw=true)
+
